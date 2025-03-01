@@ -21,6 +21,8 @@ Board width is 17.5mm, height is 20.5mm.
 
 Click into the `3pdt_pcb_fab_files.zip` file in this repo, then download that zip file.
 
+![](./images/where_to_download_zip.png)
+
 Then you can use a board fabricator like JLCPCB and upload that zip onto their site.
 
 If you need the files in a different format than .zip, I've included the folder unzipped `3pdt_pcb_fab_files`.

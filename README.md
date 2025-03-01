@@ -6,12 +6,12 @@ A 3PDT PCB for guitar pedals
 Hello, this is a KiCad project for a 3PDT PCB board.
 This will allow a guitar pedal with a 3PDT [like this](https://stompboxparts.com/footswitches/3pdt-footswitch-solder-lug-vimex/) to be wired in true bypass.
 
-IJ = Input Jack
-IN = PCB Input
-LED = LED
-GND = Ground connection
-OUT = PCB Output
-JO = Output Jack
+* IJ = Input Jack
+* IN = PCB Input
+* LED = LED
+* GND = Ground connection
+* OUT = PCB Output
+* JO = Output Jack
 
 The wire pads have a pitch of 2.54mm (0.1") to match that of common ribbon cables.
 

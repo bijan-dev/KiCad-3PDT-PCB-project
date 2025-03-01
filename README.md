@@ -1,3 +1,5 @@
+## Note: I haven't ordered one of these yet, so this is unverified at the moment. Let me know if you order one and it works, I'll update this page.
+
 # KiCad-3PDT-PCB-project
 A 3PDT PCB for guitar pedals
 

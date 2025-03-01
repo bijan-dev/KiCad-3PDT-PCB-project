@@ -51,7 +51,7 @@ Other PCB fab sites should work very similarly.
 
 ![](./images/panel_options.png)
 
-The board price will go up quite a bit for this though. For 25 boards, single boards on top vs paneled 5x5 below
+The board price will go up quite a bit for this though. For 25 copies, as single boards on top vs paneled 5x5 below
 
 ![](./images/panel_price_difference.png)
 

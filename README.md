@@ -19,6 +19,8 @@ Board width is 17.5mm, height is 20.5mm.
 
 # If you would like to order one
 
+The gerber files are included in the repo.
+
 Click into the `3pdt_pcb_fab_files.zip` file in this repo, then download that zip file.
 
 ![](./images/where_to_download_zip.png)

@@ -51,7 +51,7 @@ Other PCB fab sites should work very similarly.
 
 ![](./images/panel_options.png)
 
-#Here's screenshots of the schematic and PCB layout:
+# Here's screenshots of the schematic and PCB layout:
 
 ![](./images/schematic.png)
 

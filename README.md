@@ -19,6 +19,8 @@ The wire pads have a pitch of 2.54mm (0.1") to match that of common ribbon cable
 
 Board width is 17.5mm, height is 20.5mm.
 
+Huge thank you to [Mad Bean](https://www.madbeanpedals.com/) for the 3PDT footprint, their footprint library is the GOAT.
+
 # If you would like to order one
 
 The gerber files are included in the repo.

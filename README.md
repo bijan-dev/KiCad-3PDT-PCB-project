@@ -8,7 +8,7 @@ This will allow a guitar pedal with a 3PDT [like this](https://stompboxparts.com
 
 * JI = Input Jack
 * IN = PCB Input
-* LED = LED
+* LED = LED connection (assumes an offboard current limiting resistor eg. 4.7k Ohm. Please add one if your effect PCB doesn't have one)
 * GND = Ground connection
 * OUT = PCB Output
 * JO = Output Jack

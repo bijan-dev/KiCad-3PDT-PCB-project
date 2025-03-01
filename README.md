@@ -4,7 +4,7 @@ A 3PDT PCB for guitar pedals
 ![](./3pdt_render.png)
 
 Hello, this is a KiCad project for a 3PDT PCB board.
-This will allow a guitar pedal with a 3PDT to be wired in true bypass.
+This will allow a guitar pedal with a 3PDT [like this](https://stompboxparts.com/footswitches/3pdt-footswitch-solder-lug-vimex/) to be wired in true bypass.
 
 IJ = Input Jack
 IN = PCB Input

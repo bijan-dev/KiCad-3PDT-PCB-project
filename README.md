@@ -45,7 +45,13 @@ except for Surface Finish - LeadFree HASL (personal preference).
 
 Other PCB fab sites should work very similarly.
 
-Here's screenshots of the schematic and PCB layout:
+**NOTE:** JLCPCB has a `panel` option, where they'll lay multiples of these out in a single board. Here's an example of 25 qty ordered in a 5x5 panel. The board price will go up quite a bit for this though.
+
+![](./images/panel_by_JLCPCB.png)
+
+![](./images/panel_options.png)
+
+#Here's screenshots of the schematic and PCB layout:
 
 ![](./images/schematic.png)
 

@@ -44,3 +44,9 @@ except for Surface Finish - LeadFree HASL (personal preference).
 ![](./images/JLCPCB_board_page.png)
 
 Other PCB fab sites should work very similarly.
+
+Here's screenshots of the schematic and PCB layout:
+
+![](./images/schematic.png)
+
+![](./images/pcb_layout.png)

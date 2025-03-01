@@ -31,7 +31,7 @@ Click into the `3pdt_pcb_fab_files.zip` file in this repo, then download that zi
 
 Then you can use a board fabricator like JLCPCB and upload that zip onto their site.
 
-If you need the files in a different format than .zip, I've included the folder unzipped `3pdt_pcb_fab_files`.
+If you need the gerber files compressed in a different format than .zip, I've included them in the folder `3pdt_pcb_fab_files`.
 
 Here's where to put the file on JLCPCBs website:
 

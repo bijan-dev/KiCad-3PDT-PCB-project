@@ -1,5 +1,3 @@
-## Note: I haven't ordered one of these yet, so this is unverified at the moment. Let me know if you order one and it works, I'll update this page.
-
 # KiCad-3PDT-PCB-project
 A 3PDT PCB for guitar pedals
 
@@ -20,6 +18,12 @@ The wire pads have a pitch of 2.54mm (0.1") to match that of common ribbon cable
 Board width is 17.5mm, height is 20.5mm.
 
 Huge thank you to [Mad Bean](https://www.madbeanpedals.com/) for the pad and 3PDT footprints, their footprint library is the GOAT.
+
+---
+
+**This board is now verified!** I ordered some copies from OshPark, and used one in a new build. It works! It's suprisingly tiny!
+
+![](./images/3pdt_pcb_irl.png) ![](./images/3pdt_pcb_in_build.png)
 
 ---
 

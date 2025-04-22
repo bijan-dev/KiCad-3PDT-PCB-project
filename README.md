@@ -23,7 +23,7 @@ Huge thank you to [Mad Bean](https://www.madbeanpedals.com/) for the pad and 3PD
 
 **This board is now verified!** I ordered some copies from OshPark, and used one in a new build. It works! It's suprisingly tiny!
 
-![](./images/3pdt_pcb_irl.png)
+![](./images/3pdt_pcb_irl.jpg)
 
 ![](./images/3pdt_pcb_in_build.png)
 
